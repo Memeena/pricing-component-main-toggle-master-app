@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/pricing-component-main-toggle-master-app/static/css/main.8d025039.css",
-    "main.js": "/pricing-component-main-toggle-master-app/static/js/main.4f395dc7.js",
+    "main.css": "/pricing-component-main-toggle-master-app/static/css/main.e9868a3f.css",
+    "main.js": "/pricing-component-main-toggle-master-app/static/js/main.8336860c.js",
     "static/js/787.0a95369c.chunk.js": "/pricing-component-main-toggle-master-app/static/js/787.0a95369c.chunk.js",
     "index.html": "/pricing-component-main-toggle-master-app/index.html",
-    "main.8d025039.css.map": "/pricing-component-main-toggle-master-app/static/css/main.8d025039.css.map",
-    "main.4f395dc7.js.map": "/pricing-component-main-toggle-master-app/static/js/main.4f395dc7.js.map",
+    "static/media/bg-bottom.svg": "/pricing-component-main-toggle-master-app/static/media/bg-bottom.0ed1debdb05aee57e642.svg",
+    "static/media/bg-top.svg": "/pricing-component-main-toggle-master-app/static/media/bg-top.4980c1fd1180f71d5782.svg",
+    "main.e9868a3f.css.map": "/pricing-component-main-toggle-master-app/static/css/main.e9868a3f.css.map",
+    "main.8336860c.js.map": "/pricing-component-main-toggle-master-app/static/js/main.8336860c.js.map",
     "787.0a95369c.chunk.js.map": "/pricing-component-main-toggle-master-app/static/js/787.0a95369c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d025039.css",
-    "static/js/main.4f395dc7.js"
+    "static/css/main.e9868a3f.css",
+    "static/js/main.8336860c.js"
   ]
 }
