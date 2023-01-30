@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Memeena/pricing-component-main-toggle-master-app/tree/master)
+- Live Site URL: [Live site URL](https://memeena.github.io/pricing-component-main-toggle-master-app/)
 
 ## My process
 
