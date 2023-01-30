@@ -1,0 +1,65 @@
+.card {
+  padding: 3rem;
+  /* border-radius: 1rem; */
+  background-color: white;
+  gap: 2rem;
+}
+
+.heading {
+  font-size: 1.8rem;
+}
+
+.priceAmt {
+  gap: 0.3rem;
+}
+
+.dollarSign {
+  font-size: 4rem;
+}
+
+.price {
+  font-size: 7rem;
+}
+
+.cardDetails {
+  /* gap: 2rem; */
+  list-style: none;
+  width: 100%;
+}
+
+.storage,
+.users,
+.limit {
+  padding: 2rem;
+  text-align: center;
+}
+
+.cardDetail {
+  width: 100%;
+  font-size: 1.5rem;
+}
+
+.cardDetails:last-child {
+  border-bottom: 1px solid #ffffff;
+}
+
+.btn {
+  width: 100%;
+  cursor: pointer;
+  border: none;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  margin-top: 2rem;
+  font-size: 1.3rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  font-family: "Monteserrat", sans-serif;
+  font-weight: bold;
+  transition: all 0.3s ease-in;
+}
+
+@media screen and (max-width: 35em) {
+  .card {
+    border-radius: 1rem;
+  }
+}
