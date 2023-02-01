@@ -76,7 +76,7 @@
   color: hsl(228, 45%, 44%);
 }
 
-@media screen and (max-width: 35em) {
+@media screen and (max-width: 50em) {
   .cards {
     flex-direction: column;
     gap: 5rem;
